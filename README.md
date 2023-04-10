@@ -16,4 +16,8 @@ DM Pizza Outlet Like to known the last year sales status for there one of outlet
 
 # Dashboard Preview
 
-![image](https://user-images.githubusercontent.com/110016087/230925051-bf537ea7-1521-4018-b997-6e377b51bbb3.png)
+![image](https://user-images.githubusercontent.com/110016087/230928269-4684d90e-7051-4db5-a23d-770dc976353f.png)
+
+# Report Insights
+![image](https://user-images.githubusercontent.com/110016087/230928486-93eccd77-9893-4a19-849e-5f0fa7e9def0.png)
+
